@@ -5,6 +5,7 @@ jq
 awk
 perl
 curl
+swayosd
 upower
 brightnessctl
 radeontop # For AMD GPUs
